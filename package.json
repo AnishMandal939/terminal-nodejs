@@ -1,0 +1,25 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "nodejs terminal to generate html5 template",
+  "main": "index.js",
+  "bin":{
+    "html5":"ama5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishMandal939/terminal-nodejs.git"
+  },
+  "keywords": [
+    "terminal-nodejs"
+  ],
+  "author": "Anish Mandal aMa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnishMandal939/terminal-nodejs/issues"
+  },
+  "homepage": "https://github.com/AnishMandal939/terminal-nodejs#readme"
+}
